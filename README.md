@@ -22,7 +22,8 @@ A Web application built on the Ruby On Rails framework.
  * Rating  
 
 ###Contributos
-* [Fabian Pombo](https://github.com/fabianp23)
-* [Rogerio](https://github.com/roger88ist)
-* [Anthony Rivera] ()
+* [Fabian Pombo](https://github.com/fabianp23)  
+* [Rogerio](https://github.com/roger88ist)  
+* [Anthony Rivera] ()  
+
 ======
