@@ -1,14 +1,9 @@
-#QUICK BOOST WEB APP
-=====================
-
+#QUICK BOOST WEB APP  
 A Web application built on the Ruby On Rails framework.  
 
-
 ##Features
-==========
-
 1. Create an Account
-2. Create a Product
+2. Create a Product 
 ..* Name
 ..* Description
 ..* Origin
